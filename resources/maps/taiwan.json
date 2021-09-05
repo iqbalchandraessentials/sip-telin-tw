@@ -1,0 +1,140 @@
+[
+    {
+        "cityid": "0",
+        "cityname": "Taiwan",
+        "active_reg": 137894,
+        "deactive_reg": 0
+    },
+    {
+        "cityid": "13",
+        "cityname": "New Taipei City",
+        "active_reg": 13314,
+        "deactive_reg": 11373
+    },
+    {
+        "cityid": "18",
+        "cityname": "Taipei City",
+        "active_reg": 28793,
+        "deactive_reg": 23205
+    },
+    {
+        "cityid": "16",
+        "cityname": "Taichung City",
+        "active_reg": 8252,
+        "deactive_reg": 4566
+    },
+    {
+        "cityid": "17",
+        "cityname": "Tainan City",
+        "active_reg": 7155,
+        "deactive_reg": 3650
+    },
+    {
+        "cityid": "7",
+        "cityname": "Kaohsiung City",
+        "active_reg": 8213,
+        "deactive_reg": 9082
+    },
+    {
+        "cityid": "21",
+        "cityname": "Yilan County",
+        "active_reg": 1199,
+        "deactive_reg": 1292
+    },
+    {
+        "cityid": "20",
+        "cityname": "Taoyuan City",
+        "active_reg": 33450,
+        "deactive_reg": 83733
+    },
+    {
+        "cityid": "5",
+        "cityname": "Hsinchu County",
+        "active_reg": 4570,
+        "deactive_reg": 1003
+    },
+    {
+        "cityid": "11",
+        "cityname": "Miaoli County",
+        "active_reg": 2208,
+        "deactive_reg": 1087
+    },
+    {
+        "cityid": "1",
+        "cityname": "Changhua County",
+        "active_reg": 4091,
+        "deactive_reg": 2537
+    },
+    {
+        "cityid": "12",
+        "cityname": "Nantou County",
+        "active_reg": 1474,
+        "deactive_reg": 763
+    },
+    {
+        "cityid": "22",
+        "cityname": "Yunlin County",
+        "active_reg": 1839,
+        "deactive_reg": 1101
+    },
+    {
+        "cityid": "3",
+        "cityname": "Chiayi County",
+        "active_reg": 1135,
+        "deactive_reg": 933
+    },
+    {
+        "cityid": "15",
+        "cityname": "Pingtung County",
+        "active_reg": 2150,
+        "deactive_reg": 1142
+    },
+    {
+        "cityid": "19",
+        "cityname": "Taitung County",
+        "active_reg": 299,
+        "deactive_reg": 175
+    },
+    {
+        "cityid": "6",
+        "cityname": "Hualien County",
+        "active_reg": 642,
+        "deactive_reg": 598
+    },
+    {
+        "cityid": "14",
+        "cityname": "Penghu County",
+        "active_reg": 150,
+        "deactive_reg": 284
+    },
+    {
+        "cityid": "8",
+        "cityname": "Keelung City",
+        "active_reg": 902,
+        "deactive_reg": 792
+    },
+    {
+        "cityid": "4",
+        "cityname": "Hsinchu City",
+        "active_reg": 2439,
+        "deactive_reg": 1049
+    },
+    {
+        "cityid": "2",
+        "cityname": "Chiayi City",
+        "active_reg": 494,
+        "deactive_reg": 503
+    },
+    {
+        "cityid": "9",
+        "cityname": "Kinmen County",
+        "active_reg": 59,
+        "deactive_reg": 55
+    },
+    {
+        "cityid": "10",
+        "cityname": "Lienchiang County",
+        "active_reg": 3,
+        "deactive_reg": 12
+    }
+]
